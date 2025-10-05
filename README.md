@@ -93,9 +93,3 @@ This repository is intended for **educational purposes**. Students can clone, ex
 * **Course Title:** Programming 3 (Practical).
 * **Platform:** Islamic University.
 * **YouTube Playlist:** [Programming 3 Course](https://youtube.com/playlist?list=PLBeWUcoo0TgzKUymhgi5PcgVNg8g2l4rh&si=nzCb53ORdncVF77J).
-
----
-
-### 🏷️ Tags
-
-#Java #JavaFX #JDBC #JPA #SpringBoot #Streams #Multithreading #CaseStudy #SoftwareEngineering #Programming3 #Teaching #CourseRepository
